@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "card-chronic.gl.joinmc.link",
-          "assigned_srv": "card-chronic.gl.joinmc.link",
+          "assigned_domain": "metal-homeland.gl.joinmc.link",
+          "assigned_srv": "metal-homeland.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "82304463-4b73-4fe1-97b3-a4c93d3913fb",
+          "id": "c43fe0fa-0e0b-4004-984c-0d20783c5ebb",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 47069,
-          "port_start": 47068,
+          "port_end": 47130,
+          "port_start": 47129,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-01T14:23:36.457112Z",
+      "created_at": "2024-08-01T15:13:47.661448Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "aae8cf2b-9b78-4045-940c-9a673994e543",
+      "id": "8260d465-91d3-4086-a48c-25c61c16eb9a",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "2461c76f-3dc4-4efb-983c-d89b882b4f16",
-          "agent_name": "IPfija",
+          "agent_id": "2f9760bb-d769-4793-98d2-c4467ea9e653",
+          "agent_name": "Oboland",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
